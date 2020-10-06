@@ -113,12 +113,13 @@
 		}
 		else_if = {
 			limit = {
-				NOT = { has_perk = divine_retribution_perk }
 				faith = {
 	  				faith_hostility_level = {
 	 						target = scope:victim.faith
 							value = faith_astray_level
-	 			}
+	 				}
+				}
+				NOT = { has_perk = divine_retribution_perk }
 			}
 			add_piety = minor_piety_loss
 		}
