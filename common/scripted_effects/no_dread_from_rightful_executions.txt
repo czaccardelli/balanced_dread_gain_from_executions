@@ -20,7 +20,7 @@
 	scope:executioner = {
 		if = {
 			limit = {
-				NOR = {
+				NOR = { #not eligible for dread if the victim has a reason to be executed or can be executed due to their faith as being seen as evil or hostile
 					has_execute_reason = scope:victim
 					faith = {
 	  					faith_hostility_level = {
