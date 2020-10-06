@@ -5,5 +5,5 @@ tags={
 	"Gameplay"
 	"Character Interactions"
 }
-name="No Dread From Rightful Executions"
+name="Balanced Dread Gain From Executions"
 supported_version="1.1.2"
