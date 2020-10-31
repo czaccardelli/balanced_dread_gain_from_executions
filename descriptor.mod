@@ -6,4 +6,4 @@ tags={
 	"Character Interactions"
 }
 name="Balanced Dread Gain From Executions"
-supported_version="1.1.2"
+supported_version="1.1.3"
